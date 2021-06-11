@@ -1,4 +1,4 @@
-# My next progress 🙏🙏🙏
+# My progress 🙏🙏🙏
 ## Follow my developer journey: 
 
 I'll be using products like 
