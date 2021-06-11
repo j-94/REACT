@@ -2,5 +2,8 @@
 ## Follow my developer journey: 
 
 I'll be using products like 
--() nextjs
-reactjs nodesjs typescript here
+
+1.  reactjs
+2.  nodesjs
+3.  nextjs
+4.  typescript h
