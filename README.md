@@ -2,5 +2,5 @@
 ## Follow my developer journey: 
 
 I'll be using products like 
--[] nextjs
+-() nextjs
 reactjs nodesjs typescript here
