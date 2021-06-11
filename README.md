@@ -3,7 +3,8 @@
 
 I'll be using products like 
 
-1.  reactjs
-2.  nodesjs
-3.  nextjs
-4.  typescript h
+- [x] React
+  - [x] Next
+  - [x] Node
+  - [x] Typescript
+
