@@ -10,7 +10,7 @@ I'll be using products like
 
 - https://github.com/redwoodjs/redwood
 - https://github.com/echobind/bisonapp
-https://github.com/UnlyEd/next-right-now
-https://github.com/mxstbr/bedrock
-https://github.com/ljosberinn/personal-react-boilerplate
-https://github.com/blitz-js/blitz
+- https://github.com/UnlyEd/next-right-now
+- https://github.com/mxstbr/bedrock
+- https://github.com/ljosberinn/personal-react-boilerplate
+- https://github.com/blitz-js/blitz
